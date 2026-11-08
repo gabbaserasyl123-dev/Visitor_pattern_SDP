@@ -1,4 +1,3 @@
-
 public interface SpacecraftVisitor {
 
     void visitFighterShip(FighterShip ship);

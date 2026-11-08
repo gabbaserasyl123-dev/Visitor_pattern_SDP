@@ -11,8 +11,8 @@ public class FighterShip implements Spacecraft{
         return speed;
     }
 
-    public void setArmor(int armor) {
-        this.armor = armor;
+    public int getArmor() {
+        return armor;
     }
 
     @Override
